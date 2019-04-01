@@ -30,7 +30,7 @@ router.use(methodOverride((request, response) => {
     return method;
   }
 }))
-
+console.log('you have reached routes.js')
 router.use(modelFinder);
 
 // API Routes
