@@ -8,7 +8,7 @@
 
 ### Links and Resources
 * [PR][https://github.com/401-advanced-javascript-401d29/lab-10/pull/2]
-* [travis][2]
+* travis [![Build Status](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-10.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-10)
 <!-- (when applicable) -->
 <!-- * [back-end][3] -->
 <!-- (when applicable) -->
